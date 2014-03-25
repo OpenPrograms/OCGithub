@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# project files #
+*.classpath
+*.project
+*.settings/
+/debug/
+*.lock
+/.metadata/
+/config/
+/logs/
+options.txt
+/saves/
+/bin/
