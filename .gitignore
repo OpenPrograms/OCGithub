@@ -5,16 +5,11 @@
 *.war
 *.ear
 
-# project files #
-*.classpath
-*.project
-*.buildpath
-*.settings/
-/debug/
-*.lock
-/.metadata/
-/config/
-/logs/
-options.txt
-/saves/
-/bin/
+## eclipse
+/eclipse
+/.settings
+/.metadata
+/.classpath
+/.project
+/.buildpath
+/bin
